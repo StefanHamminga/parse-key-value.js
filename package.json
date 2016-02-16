@@ -1,0 +1,24 @@
+{
+  "name": "parse-key-value",
+  "version": "1.0.0",
+  "description": "Pure JavaScript parser for key1=value1;\"key 2\"=\"value 2\"; strings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StefanHamminga/parse-key-value.js.git"
+  },
+  "keywords": [
+    "parser",
+    "key",
+    "value"
+  ],
+  "author": "Stefan Hamminga",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/StefanHamminga/parse-key-value.js/issues"
+  },
+  "homepage": "https://github.com/StefanHamminga/parse-key-value.js#readme"
+}
