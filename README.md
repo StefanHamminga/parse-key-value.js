@@ -36,6 +36,6 @@ const object = {
 ## Notes & license
 This project is available on [GitHub](https://github.com/StefanHamminga/parse-key-value.js) and [npm](https://www.npmjs.com/package/parse-key-value).
 
-The project is licensed as [LGPLv3](http://www.gnu.org/licenses/lgpl-3.0.html), the license file is included in the project directory.
+The project is licensed as [MIT](https://opensource.org/licenses/MIT), the license file is included in the project directory.
 
 Copyright 2016 [Stefan Hamminga](mailto:stefan@prjct.net) - [prjct.net](https://prjct.net)
