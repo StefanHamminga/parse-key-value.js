@@ -16,7 +16,7 @@
     "value"
   ],
   "author": "Stefan Hamminga",
-  "license": "LGPL-3.0",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/StefanHamminga/parse-key-value.js/issues"
   },
